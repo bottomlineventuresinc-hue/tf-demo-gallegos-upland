@@ -1,0 +1,20 @@
+PHOTO SOURCES — hs-011-gallegos Jose Gallegos (Wave 3 2026-09-19 PT)
+Commercial-ok Unsplash/Pexels. Verified. Mix electrical + outdoor residential. No owner stock face.
+
+hero-site.jpg — wave2/elec-panel-1 — Residential electrical panel (hero)
+services-trade.jpg — wave2/elec-panel-close — Panel/wiring services
+job041-after.jpg — wave1-fix/panel3 — Clean panel after
+job041-before.jpg — CES outdoor box before
+job-land-after.jpg — Pexels 280222 — Residential lawn landscaping sample after
+job-land-before.jpg — hs-002-jf yard before
+job-elec-after.jpg — CES Unsplash outdoor enclosure after
+job-elec-before.jpg — CES outdoor box before
+people-crew.jpg — wave2/crew-outdoor — Crew outdoor NOT owner face
+people-marek.jpg — Unsplash photo-1504148455328 — Tools jobsite NOT owner face
+people-tom.jpg — Pexels 1301856 — Gloved tools outdoor NOT owner face
+coverage-house.jpg — Pexels 210617 — IE residential exterior with yard
+
+CORRECTIONS 2026-09-19 PT (visual verify):
+- job-*-before → Pexels 259957 dry/seeded residential lawn (not indoor potting)
+- job-hard-before → Pexels 2219024 outdoor concrete pad pour
+- people-crew → RJP residential crew painting (not high-rise rebar)
