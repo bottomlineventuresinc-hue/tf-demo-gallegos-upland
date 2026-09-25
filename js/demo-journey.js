@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Residential electrical and landscaping across Upland and the Inland Empire. Fixed itemised quotes before we start, Jose as your named lead on site, and a twelve-month workmanship guarantee when we leave.';
+            'Electrical and outdoor residential landscaping. Across Upland and the Inland Empire. Jose looks at the job first and puts the price in writing.';
         }
       }
     },
@@ -65,7 +65,7 @@
       id: 'h1',
       apply: function () {
         if (heroH) {
-          heroH.innerHTML = 'Electrical and yards,<br>quoted <em>before</em> we start.';
+          heroH.innerHTML = 'Electrical and yard work,<br>priced <em>first.</em>';
         }
       }
     },
@@ -73,7 +73,7 @@
       id: 'service',
       apply: function () {
         if (serviceFirst) {
-          serviceFirst.textContent = 'Residential electrical (written programme)';
+          serviceFirst.textContent = 'Electrical repairs (written price)';
         }
       }
     }
@@ -85,9 +85,9 @@
     /* mode: draft | updated */
     if (!barSub) return;
     if (mode === 'updated') {
-      barSub.textContent = 'Draft updated. More changes? Or claim it.';
+      barSub.textContent = 'Draft for Jose at Jose Gallegos. Claim it, preview the rest of the journey, or request a change.';
     } else {
-      barSub.textContent = 'Draft for Jose Gallegos. Claim it, preview the rest of the journey, or request a change.';
+      barSub.textContent = 'Draft for Jose at Jose Gallegos. Claim it, preview the rest of the journey, or request a change.';
     }
   }
 

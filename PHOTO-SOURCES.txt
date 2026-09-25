@@ -1,20 +1,20 @@
-PHOTO SOURCES — hs-011-gallegos Jose Gallegos (Wave 3 2026-09-19 PT)
-Commercial-ok Unsplash/Pexels. Verified. Mix electrical + outdoor residential. No owner stock face.
+PHOTO SOURCES · hs-011-gallegos Jose Gallegos (CR 2026-09-25b PT rebuild)
+All CC0 / public domain (StockSnap, rawpixel CC0, WordPress Photos CC0, Flickr CC0/PDM via Openverse) or prior verified Wave library.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
 
-hero-site.jpg — wave2/elec-panel-1 — Residential electrical panel (hero)
-services-trade.jpg — wave2/elec-panel-close — Panel/wiring services
-job041-after.jpg — wave1-fix/panel3 — Clean panel after
-job041-before.jpg — CES outdoor box before
-job-land-after.jpg — Pexels 280222 — Residential lawn landscaping sample after
-job-land-before.jpg — hs-002-jf yard before
-job-elec-after.jpg — CES Unsplash outdoor enclosure after
-job-elec-before.jpg — CES outdoor box before
-people-crew.jpg — wave2/crew-outdoor — Crew outdoor NOT owner face
-people-marek.jpg — Unsplash photo-1504148455328 — Tools jobsite NOT owner face
-people-tom.jpg — Pexels 1301856 — Gloved tools outdoor NOT owner face
-coverage-house.jpg — Pexels 210617 — IE residential exterior with yard
+hero-site.jpg <- wave11/elec-meter-cabinet.jpg : meter and breaker cabinet (Flickr PDM 49514987902)
+services-trade.jpg <- wave11/elec-wires-wallbox.jpg : wires pulled through a wall opening (StockSnap CC0 NTBTAJYIOK)
+people-crew.jpg <- wave11/tools-ratchet.jpg : ratchet sockets close-up (StockSnap CC0 4RHOB6RC3S)
+people-marek.jpg <- cr0925/land-hedge-shears.jpg : Best Ready Hedges in UK (flickr PDM https://www.flickr.com/photos/195958422@N04/52276329275)
+people-tom.jpg <- cr0925/elec-fan-lit.jpg : Ceiling fan light (rawpixel CC0 https://www.rawpixel.com/image/6039706/photo-image-background-texture-light)
+coverage-house.jpg <- wave11/house-dusk.jpg : two-story suburban home at dusk (StockSnap CC0 LJ515CPAKI)
+elec-rough-box.jpg <- cr0925/elec-rough-box.jpg : 20220129-RD-LSC-0065 (flickr PDM https://www.flickr.com/photos/41284017@N08/51849999359)
+elec-pendant-cage.jpg <- cr0925/elec-pendant-cage.jpg : A black metal pendant light fixture with a round cage design hangs from the ceil (wordpress CC0 https://wordpress.org/photos/photo/1386901ded/)
+land-green-waste.jpg <- cr0925/land-green-waste.jpg : Project 365 #165: 140614 The First Cut Is The Deepest (flickr PDM https://www.flickr.com/photos/23408922@N07/14235199140)
+land-fence-yard-beds.jpg <- cr0925/land-fence-yard-beds.jpg : Buddhist statue, daffodils, lotus fountain, Japanese lantern, bushes, trees, A G (flickr CC0 https://www.flickr.com/photos/71401718@N00/10617731063)
+elec-terminals.jpg <- wave11/elec-terminals.jpg : terminal blocks and wiring (rawpixel CC0 5904900)
+elec-breakers-probe.jpg <- wave11/elec-breakers-probe.jpg : breaker panel tested with a probe (StockSnap CC0 81EG7NOR4G)
 
-CORRECTIONS 2026-09-19 PT (visual verify):
-- job-*-before → Pexels 259957 dry/seeded residential lawn (not indoor potting)
-- job-hard-before → Pexels 2219024 outdoor concrete pad pour
-- people-crew → RJP residential crew painting (not high-rise rebar)
+Replaced from the prior build: all photos (prior library had mislabeled trade images and stock faces).
+Note: josegallegos.com is a lander not owned by the lead, NOT linked or offered.
