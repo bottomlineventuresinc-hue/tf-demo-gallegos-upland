@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Electrical and outdoor residential landscaping. Across Upland and the Inland Empire. Jose looks at the job first and puts the price in writing.';
+            'Electrical and outdoor residential landscaping in Upland. Jose looks at the job first and puts the price in writing.';
         }
       }
     },
